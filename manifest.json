@@ -1,0 +1,11 @@
+{
+	"id": "timeline-diary",
+	"name": "时间轴日记",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "将文本时间轴自动转化为可视化时间分配图，支持日/周/月多维度视图",
+	"author": "ZHANG",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
